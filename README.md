@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on implementing a Federated Messaging Orchestration Platform as an DevOps Engineer (Banking).
 - 🌱 I’m currently learning Azure, Kubernetes, Terraform, Python.
 - 👯 I’m looking to collaborate on Kubernetes, Terraform, Azure, Python
