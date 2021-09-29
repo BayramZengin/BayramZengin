@@ -8,3 +8,5 @@
 - 💬 Ask me about Linux, Docker, Kubernetes, Azure.
 - 📫 How to reach me: bayramzengin@hotmail.com @ WhatsApp: 0041779624935
 - ⚡ Hobbies: CS, Learning mainly with YouTube & EDX (Python, DevOps, Automation, Cloud etc.), Persian Yoga, Yoga, QiGong, Cooking
+
+A decision is not fundamentally right or wrong because it can only be assessed retrospectively and the assessment can therefore change at any time.
