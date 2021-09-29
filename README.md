@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on implementing a Federated Messaging Orchestration Platform as an DevOps Engineer (Banking).
+- 🔭 I’m currently working on implementing (modernizing) a Security Solution as an DevOps Engineer (Communication).
 - 🌱 I’m currently learning Azure, Kubernetes, Terraform, Python.
 - 👯 I’m looking to collaborate on Kubernetes, Terraform, Azure, Python
 - 🤔 I’m looking for help with Kubernetes Security, Hardening, Monitoring.
